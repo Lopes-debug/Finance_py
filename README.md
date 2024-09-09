@@ -1,1 +1,1 @@
-Estudando sobre finanças
+Estudando sobre finanças no Python.
