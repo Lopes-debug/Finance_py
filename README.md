@@ -1,1 +1,1 @@
-Estudando sobre finanças no Python.
+Learning finance in Python - Ibovespa
